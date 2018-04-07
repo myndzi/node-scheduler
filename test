@@ -1,0 +1,4 @@
+#!/bin/bash
+
+date
+echo $FOO

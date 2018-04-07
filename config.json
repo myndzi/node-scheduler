@@ -1,0 +1,10 @@
+[
+    {
+        "script": "test",
+        "period": 10,
+        "args": [],
+        "env": {
+            "FOO": "BAR"
+        }
+    }
+]
